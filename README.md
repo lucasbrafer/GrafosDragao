@@ -17,5 +17,5 @@ Foi possível efetuar toda a modelagem e desenvolvimento do problema, alcançand
 1. [:computer: Código](codigo.cs)
 
 ## Licença
-[MIT](LICENSE.md)
+Este projeto está sob a Licença [MIT](LICENSE.md)
 
