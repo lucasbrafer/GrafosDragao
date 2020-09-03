@@ -15,3 +15,7 @@ Foi possível efetuar toda a modelagem e desenvolvimento do problema, alcançand
 
 ### O Código :pushpin:
 1. [:computer: Código](codigo.cs)
+
+### Licença
+[MIT](LICENSE.md)
+
