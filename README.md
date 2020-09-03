@@ -14,7 +14,7 @@ Foi possível efetuar toda a modelagem e desenvolvimento do problema, alcançand
 ![image](image.png)
 
 ## O Código :pushpin:
-1. [:computer: Código](codigo.cs)
+1. [:computer: Código da Solução](codigo.cs)
 
 ## Licença
 Este projeto está sob a Licença [MIT](LICENSE.md)
