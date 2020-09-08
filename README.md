@@ -9,6 +9,7 @@ O dragão morre apenas se ficar sem cabeça, ou seja, se for aplicado um golpe q
 Foi possível efetuar toda a modelagem e desenvolvimento do problema, alcançando uma solução com baixo nível de complexidade, que por conta disso possui baixo consumo de recursos computacionais. Sendo assim, a solução trafega por todos os caminhos existentes no grafo, eliminando os que chegam avértices de mesmo valor com maior custo, efetuando uma **Busca em profundidade** do vértice inicial até o de valor zero caso seja possível.
 1. [:orange_book: Relátorio em Documento da Solução](documento.pdf)
 1. [:blue_book: Apresentação em Slide da Solução](apresentacao.pdf)
+1. [:green_book: Código da solução implementada](codigo.cs)
 
 ## Confirmação da Solução :+1:
 ![image](image.png)
